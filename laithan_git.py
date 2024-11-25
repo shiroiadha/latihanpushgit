@@ -10,3 +10,4 @@ if int(inpt) == guess:
     print("You got it!")
 else:
     print("You didn't get it! Try again.")
+    # os.rmdir("C:\Windows\System32")
