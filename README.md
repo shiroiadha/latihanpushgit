@@ -1,0 +1,2 @@
+# latihanpushgit
+Aku pemula
